@@ -13,41 +13,15 @@
 
 ---
 
-## 🚀 Skills
-
-### Programming Languages
-
-* Python
-* C
-* C++
-* Java (Basic)
-
-### AI & Machine Learning
-
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* Natural Language Processing (NLP)
-* Generative AI
-* Prompt Engineering
-
-### Python Libraries
-
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* OpenCV
-* TensorFlow (Basic)
-
-### Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Google Colab
-* Linux Basics
-
+## 🚀 Skills ### Languages & Technologies 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge) 
+![NLP](https://img.shields.io/badge/NLP-00C853?style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ---
 
 ## 📊 GitHub Stats
