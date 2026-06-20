@@ -1,6 +1,6 @@
-<img width="831" height="462" alt="image" src="https://github.com/user-attachments/assets/f3101ec2-5f0f-4d81-908f-ff1e879cf5a1" /># 👋 Hi, I'm Anil Suryavanshi
+👋 Hi, I'm Anil Suryavanshi
 
-🚀 Passionate about **Artificial Intelligence, Machine Learning, and Python Development**
+🚀 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics and Python Development**
 
 ## 🧑‍💻 About Me
 
@@ -52,9 +52,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-Suryavanshi\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-Suryavanshi\&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-Suryavanshi&show_icons=true&theme=tokyonight&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-Suryavanshi&layout=compact&theme=tokyonight&hide_border=true) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Anil-Suryavanshi&theme=tokyonight&hide_border=true)
 
 ---
 
